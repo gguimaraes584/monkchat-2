@@ -4,7 +4,7 @@ import { Barra, ContainerCabecalho } from './styled'
 import Cookies from 'js-cookie'
 import { useHistory } from 'react-router-dom';
 
-
+//////////d90fdwjehg8regt9iro´gjrg
 
 export default function Cabecalho() {
     
